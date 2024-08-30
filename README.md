@@ -22,7 +22,7 @@
     </tr>
   </tbody>
 </table>
-
+<table>
   <thead>
     <tr>
       <th height=33 width=100>HTML5</th>
