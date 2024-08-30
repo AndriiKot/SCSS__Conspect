@@ -29,4 +29,4 @@
   </tbody>
 </table>
 
-### [Video Guide Sass(SCSS)](https://www.youtube.com/watch?v=pBSch5AsJWs&t=33s)
+### [Video Guide Sass(SCSS) ~27 min.](https://www.youtube.com/watch?v=pBSch5AsJWs&t=33s)
