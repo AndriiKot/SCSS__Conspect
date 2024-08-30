@@ -1,6 +1,7 @@
-body header {
-  background-color: red;
-}
-body h1 {
-  color: blue;
-}
+.header__title {
+  background-color: red; }
+
+.section__title {
+  color: blue; }
+
+/*# sourceMappingURL=styles.css.map */

@@ -28,3 +28,5 @@
     </tr>
   </tbody>
 </table>
+
+### [SCSS guide](https://www.youtube.com/watch?v=pBSch5AsJWs&t=33s)

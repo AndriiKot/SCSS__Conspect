@@ -1,8 +1,10 @@
-﻿body {
-  header {
+﻿.header {
+  &__title {
     background-color: red;
   }
-  h1 {
+}
+.section {
+  &__title {
     color: blue;
   }
 }
