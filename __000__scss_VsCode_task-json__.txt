@@ -1,0 +1,44 @@
+﻿
+source YouTube:
+27 min 01 sec
+from 5 min 40 sec to 
+https://www.youtube.com/watch?v=pBSch5AsJWs&t=267s
+
+1. $: code . (open vscode)
+2. vscode: terminal > Configure Tasks > Create tasks.json > Other
+
+3.
+tasks.json
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile SCSS to CSS",
+            "type": "shell",
+            "command": "sass styles.scss styles.css",
+            "group": "build"
+        }
+    ]
+}
+
+4.
+vsCode: Ctrl + Shift + B  (start tasks  command tasks.json)
+
+5. 'Compile SCSS to CSS' > Enter (выбираем лайбл)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+﻿App Prepros:
+https://prepros.io/downloads
+
+source YouTube:
+27 min 01 sec
+from 8 min 27 sec to 
+https://www.youtube.com/watch?v=pBSch5AsJWs&t=507s
+
+1.download Prepros:
+https://prepros.io/downloads
+
+2. open Prepors
+3. cd new-projects 
+
+(Программа Prepors должна быть запущена в папке с проектом)
+
